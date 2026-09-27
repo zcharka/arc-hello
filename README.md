@@ -8,6 +8,15 @@ Arc Hello is app for ArcOS. In this app avalible is:
 
 App will be standalone and widget for [Arc Center](https://github.com/zcharka/Arc-Center).
 
+Dependencies:
+- python-gobject
+- gtk4
+- libadwaita
+- python
+- xdg-utils
+- hicolor-icon-theme
+- arc-center
+
 **PL:**
 Arc Hello jest aplikacją dla ArcOS. W tej aplikacji możlikwe jest:
 - instalowanie rekomendowanych programów
@@ -15,3 +24,12 @@ Arc Hello jest aplikacją dla ArcOS. W tej aplikacji możlikwe jest:
 - Pokazywanie nowych aplikacji dla ArcOS
 
 Aplikacja może być osobna lub być widżetem dla [Arc Center](https://github.com/zcharka/Arc-Center).
+
+Zależności:
+- python-gobject
+- gtk4
+- libadwaita
+- python
+- xdg-utils
+- hicolor-icon-theme
+- arc-center
